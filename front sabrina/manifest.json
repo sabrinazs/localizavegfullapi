@@ -1,0 +1,75 @@
+{
+    "name": "LocalizaVeg",
+    "short_name": "LocalizaVeg",
+    "description": "Nesse espaço você encontrará opções atualizadas de lojas, restaurantes e espaços que atendam as necessidades de veganos e vegetarianos.",
+    "icons": [
+      {
+        "src": "/images/29.png",
+        "sizes": "29x29",
+        "type": "image/png"
+      },
+      {
+        "src": "/images/40.png",
+        "sizes": "40x40",
+        "type": "image/png"
+      },
+      {
+        "src": "/images/57.png",
+        "sizes": "57x57",
+        "type": "image/png"
+      },
+      {
+        "src": "/images/58.png",
+        "sizes": "58x58",
+        "type": "image/png"
+      },
+      {
+        "src": "/images/60.png",
+        "sizes": "60x60",
+        "type": "image/png"
+      },
+      {
+        "src": "/images/80.png",
+        "sizes": "80x80",
+        "type": "image/png"
+      },
+      {
+        "src": "/images/87.png",
+        "sizes": "87x87",
+        "type": "image/png"
+      },
+      {
+        "src": "/images/114.png",
+        "sizes": "114x114",
+        "type": "image/png",
+        "purpose": "maskable"
+      },
+      {
+        "src": "/images/120.png",
+        "sizes": "120x120",
+        "type": "image/png"
+      },
+      {
+        "src": "/images/180.png",
+        "sizes": "180x180",
+        "type": "image/png"
+      },
+      
+      {
+        "src": "/images/1024.png",
+        "sizes": "1024x1024",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "scope": "/",
+    "lang": "pt-br",
+    "orientation": "portrait",
+    "dir": "ltr",
+    "categories": [
+        "personalization"
+    ]
+  }
