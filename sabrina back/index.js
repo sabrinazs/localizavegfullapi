@@ -4,7 +4,7 @@ const bodyParser = require('body-parser');
 const mongoose = require('mongoose');
 
 
-//db conexao
+//db conexaoa
 mongoose.Promise = global.Promise;
 mongoose.connect('mongodb://127.0.0.1:27017/mean', { useNewUrlParser: true, useUnifiedTopology: true }).then(
   () => {console.log('Database is connected') },
